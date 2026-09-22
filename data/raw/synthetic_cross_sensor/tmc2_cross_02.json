@@ -1,0 +1,36 @@
+{
+  "sensor": "TMC-2",
+  "resolution_m": 0.5,
+  "acquisition_info": {
+    "orbit": 2102,
+    "timestamp": "2026-04-20T12:30:00Z",
+    "instrument": "TMC-2",
+    "view_angle": "Nadir"
+  },
+  "sun_angle_info": {
+    "sun_elevation_deg": 32.0,
+    "sun_azimuth_deg": 125.0
+  },
+  "dataset_type": "SYNTHETIC_CROSS_SENSOR_PAIR",
+  "synthetic_ground_truth": {
+    "scale_ratio": 4.0,
+    "rotation_deg": 12.0,
+    "ground_truth_homography": [
+      [
+        1.9562952014676114,
+        0.4158233816355187,
+        -31.631178637200648
+      ],
+      [
+        -0.4158233816355187,
+        1.9562952014676114,
+        48.819607061492135
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  }
+}

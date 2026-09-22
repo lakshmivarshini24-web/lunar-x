@@ -1,0 +1,18 @@
+{
+  "sensor": "OHRC",
+  "resolution_m": 0.25,
+  "acquisition_info": {
+    "orbit": 1044,
+    "timestamp": "2026-03-15T10:00:00Z",
+    "instrument": "OHRC"
+  },
+  "sun_angle_info": {
+    "sun_elevation_deg": 35.0,
+    "sun_azimuth_deg": 120.0,
+    "incidence_angle_deg": 55.0
+  },
+  "geographic_info": {
+    "crs": "MOON_2000",
+    "resolution_m": 0.25
+  }
+}

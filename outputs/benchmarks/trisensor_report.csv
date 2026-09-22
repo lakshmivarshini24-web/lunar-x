@@ -1,0 +1,2 @@
+dataset_type,total_execution_time_sec,tri_sensor_agreement_score,loop_closure_error_px,is_consensus_valid,ohrc_tmc2_inliers,ohrc_tmc2_inlier_ratio,ohrc_iirs_inliers,ohrc_iirs_inlier_ratio,tmc2_iirs_inliers,tmc2_iirs_inlier_ratio
+SYNTHETIC_TRISENSOR_TRIPLET,0.3893,0.528,1.4686,True,20,0.9524,22,0.55,85,0.6693

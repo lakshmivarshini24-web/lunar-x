@@ -1,0 +1,3 @@
+algorithm,num_kpts_a,num_kpts_b,num_raw_matches,num_filtered_matches,num_inliers,inlier_ratio,precision,recall,mean_reprojection_error_px,rmse_px,spatial_coverage_ratio,spatial_entropy,execution_time_sec,fps,gpu_utilization
+sift,5000,5000,5000,1614,1573,0.9746,0.9746,0.9746,0.3083,0.386,0.9531,5.7652,0.1544,6.48,"{""cuda_available"": false}"
+orb,4774,4853,4774,1165,1030,0.8841,0.8841,0.8901,0.9385,1.1122,0.7812,5.0438,1.8599,0.54,"{""cuda_available"": false}"

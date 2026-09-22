@@ -1,0 +1,2 @@
+algorithm,num_kpts_a,num_kpts_b,num_raw_matches,num_filtered_matches,num_inliers,inlier_ratio,precision,recall,mean_reprojection_error_px,rmse_px,spatial_coverage_ratio,spatial_entropy,execution_time_sec,fps,gpu_utilization
+CrossSensor_SIFT,1078,656,1078,138,39,0.2826,0.2826,0.0,1343.7155,1435.0516,0.0312,0.172,0.0978,10.22,"{""dataset_type"": ""SYNTHETIC_CROSS_SENSOR_PAIR"", ""scale_ratio"": 2.0}"

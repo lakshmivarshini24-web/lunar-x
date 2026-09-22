@@ -1,0 +1,21 @@
+{
+  "algorithm": "CrossSensor_SIFT",
+  "num_kpts_a": 1078,
+  "num_kpts_b": 656,
+  "num_raw_matches": 1078,
+  "num_filtered_matches": 138,
+  "num_inliers": 39,
+  "inlier_ratio": 0.2826,
+  "precision": 0.2826,
+  "recall": 0.0,
+  "mean_reprojection_error_px": 1343.7155,
+  "rmse_px": 1435.0516,
+  "spatial_coverage_ratio": 0.0312,
+  "spatial_entropy": 0.172,
+  "execution_time_sec": 0.0978,
+  "fps": 10.22,
+  "gpu_utilization": {
+    "dataset_type": "SYNTHETIC_CROSS_SENSOR_PAIR",
+    "scale_ratio": 2.0
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product_Observational xmlns="http://pds.nasa.gov/pds4/pds/v1">
+    <Identification_Area>
+        <logical_identifier>urn:isro:isda:ch2:ohrc:ch2_ohr_ncl_20200908T1230000000_d_img_v1</logical_identifier>
+        <title>Chandrayaan-2 OHRC Level-1B/2 Calibrated Ortho Image</title>
+        <product_class>Product_Observational</product_class>
+    </Identification_Area>
+    <Observation_Area>
+        <Investigation_Area><name>Chandrayaan-2 Mission</name></Investigation_Area>
+        <Observing_System><Observing_System_Component><name>OHRC</name><type>Instrument</type></Observing_System_Component></Observing_System>
+        <Target_Identification><name>Moon</name></Target_Identification>
+    </Observation_Area>
+</Product_Observational>

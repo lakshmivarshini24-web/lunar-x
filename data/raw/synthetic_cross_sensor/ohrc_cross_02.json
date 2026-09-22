@@ -1,0 +1,14 @@
+{
+  "sensor": "OHRC",
+  "resolution_m": 0.25,
+  "acquisition_info": {
+    "orbit": 2044,
+    "timestamp": "2026-04-10T08:00:00Z",
+    "instrument": "OHRC"
+  },
+  "sun_angle_info": {
+    "sun_elevation_deg": 40.0,
+    "sun_azimuth_deg": 110.0
+  },
+  "dataset_type": "SYNTHETIC_CROSS_SENSOR_PAIR"
+}

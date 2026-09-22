@@ -1,0 +1,42 @@
+[
+  {
+    "algorithm": "sift",
+    "num_kpts_a": 5000,
+    "num_kpts_b": 5000,
+    "num_raw_matches": 5000,
+    "num_filtered_matches": 1614,
+    "num_inliers": 1573,
+    "inlier_ratio": 0.9746,
+    "precision": 0.9746,
+    "recall": 0.9746,
+    "mean_reprojection_error_px": 0.3083,
+    "rmse_px": 0.386,
+    "spatial_coverage_ratio": 0.9531,
+    "spatial_entropy": 5.7652,
+    "execution_time_sec": 0.1544,
+    "fps": 6.48,
+    "gpu_utilization": {
+      "cuda_available": false
+    }
+  },
+  {
+    "algorithm": "orb",
+    "num_kpts_a": 4774,
+    "num_kpts_b": 4853,
+    "num_raw_matches": 4774,
+    "num_filtered_matches": 1165,
+    "num_inliers": 1030,
+    "inlier_ratio": 0.8841,
+    "precision": 0.8841,
+    "recall": 0.8901,
+    "mean_reprojection_error_px": 0.9385,
+    "rmse_px": 1.1122,
+    "spatial_coverage_ratio": 0.7812,
+    "spatial_entropy": 5.0438,
+    "execution_time_sec": 1.8599,
+    "fps": 0.54,
+    "gpu_utilization": {
+      "cuda_available": false
+    }
+  }
+]

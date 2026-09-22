@@ -1,0 +1,30 @@
+{
+  "dataset_type": "SYNTHETIC_TRISENSOR_TRIPLET",
+  "total_execution_time_sec": 0.3893,
+  "tri_sensor_agreement_score": 0.528,
+  "loop_closure_error_px": 1.4686,
+  "is_consensus_valid": true,
+  "pairwise_metrics": {
+    "ohrc_tmc2": {
+      "method": "sift",
+      "inliers": 20,
+      "inlier_ratio": 0.9524,
+      "confidence": 0.7253,
+      "scale_ratio": 20.0
+    },
+    "ohrc_iirs": {
+      "method": "CrossModal_sift",
+      "inliers": 22,
+      "inlier_ratio": 0.55,
+      "confidence": 0.4403,
+      "scale_ratio": 400.0
+    },
+    "tmc2_iirs": {
+      "method": "CrossModal_sift",
+      "inliers": 85,
+      "inlier_ratio": 0.6693,
+      "confidence": 0.669,
+      "scale_ratio": 20.0
+    }
+  }
+}

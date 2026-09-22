@@ -1,0 +1,14 @@
+{
+  "sensor": "OHRC",
+  "resolution_m": 0.25,
+  "acquisition_info": {
+    "orbit": 3043,
+    "timestamp": "2026-05-01T06:00:00Z",
+    "instrument": "OHRC"
+  },
+  "sun_angle_info": {
+    "sun_elevation_deg": 45.0,
+    "sun_azimuth_deg": 105.0
+  },
+  "dataset_type": "SYNTHETIC_TRISENSOR_TRIPLET"
+}

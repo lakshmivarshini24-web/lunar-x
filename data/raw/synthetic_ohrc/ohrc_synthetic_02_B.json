@@ -1,0 +1,43 @@
+{
+  "sensor": "OHRC",
+  "resolution_m": 0.25,
+  "acquisition_info": {
+    "orbit": 1090,
+    "timestamp": "2026-03-28T14:30:00Z",
+    "instrument": "OHRC"
+  },
+  "sun_angle_info": {
+    "sun_elevation_deg": 28.0,
+    "sun_azimuth_deg": 135.0,
+    "incidence_angle_deg": 62.0
+  },
+  "geographic_info": {
+    "crs": "MOON_2000",
+    "resolution_m": 0.25
+  },
+  "synthetic_ground_truth": {
+    "rotation_deg": 12.0,
+    "scale": 1.05,
+    "translation_xy": [
+      18.0,
+      -12.0
+    ],
+    "ground_truth_homography": [
+      [
+        1.027054980770496,
+        0.21830727535864733,
+        -44.81273756906071
+      ],
+      [
+        -0.21830727535864733,
+        1.027054980770496,
+        36.960587414566724
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  }
+}

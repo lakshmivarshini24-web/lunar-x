@@ -1,0 +1,35 @@
+{
+  "sensor": "TMC-2",
+  "resolution_m": 5.0,
+  "acquisition_info": {
+    "orbit": 3102,
+    "timestamp": "2026-05-05T10:15:00Z",
+    "instrument": "TMC-2",
+    "view_angle": "Nadir"
+  },
+  "sun_angle_info": {
+    "sun_elevation_deg": 38.0,
+    "sun_azimuth_deg": 115.0
+  },
+  "dataset_type": "SYNTHETIC_TRISENSOR_TRIPLET",
+  "synthetic_ground_truth": {
+    "scale_ratio": 20.0,
+    "ground_truth_homography": [
+      [
+        1.969615506024416,
+        0.34729635533386066,
+        -28.564718253859418
+      ],
+      [
+        -0.34729635533386066,
+        1.969615506024416,
+        40.34314871160891
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  }
+}
